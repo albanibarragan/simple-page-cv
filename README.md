@@ -9,3 +9,7 @@ El objetivo de este proyecto es enseñarte a crear un CV estructurado de una sol
 
 Este proyecto forma parte del reto propuesto en:  
 [Roadmap: Single-page](https://roadmap.sh/projects/single-page-cv)
+
+## 🌐 Vista previa del sitio
+
+[Ver mi CV en línea]([https://albanibarragan.github.io/mi-cv/](https://albanibarragan.github.io/simple-page-cv/))
